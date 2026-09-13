@@ -1,6 +1,6 @@
-# ChatGPT ETF Flow Rotation
+# Capital Flow Rotation Analysis across Industries
 
-A lightweight playbook for using **ChatGPT + ETF.com data** to analyze weekly ETF fund flows, identify where investment dollars are rotating, and generate a current-month heatmap without building a separate application.
+A lightweight playbook for using **ChatGPT, Claude, Gemini or Perplexity + ETF.com data** to analyze how the capital is flowing across the various industry verticalse, identify where investment dollars are rotating, and generate a current-month heatmap without building a separate application.
 
 ## What this project does
 

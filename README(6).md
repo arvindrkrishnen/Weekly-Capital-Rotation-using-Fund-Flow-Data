@@ -26,48 +26,23 @@ This workflow asks ChatGPT to:
 - Create a **weekly ETF rotation heatmap**
 - Explain the major risk-on / risk-off and allocation shifts
 
-No local Python environment is required for the basic workflow. You can run the analysis directly in ChatGPT.
-
----
-
-## Recommended GitHub repository name
-
-```text
-chatgpt-etf-flow-rotation
-```
-
-Suggested GitHub description:
-
-> Use ChatGPT and ETF.com fund-flow data to analyze weekly ETF capital rotation, MTD trends, flow intensity, and sector momentum with heatmaps.
-
-Suggested topics:
-
-```text
-etf
-investing
-fund-flows
-asset-allocation
-chatgpt
-financial-analysis
-market-rotation
-heatmap
-etf-com
-factset
-```
+No local Python environment is required for the basic workflow. You can run the analysis directly in ChatGPT, Google Gemini, Claude or Perplexity
 
 ---
 
 ## Quick start
 
-### 1. Open ChatGPT
+### 1. Open ChatGPT, Claude, Gemini or Perplexity
 
-Start a new ChatGPT conversation.
+Start a new conversation.
 
 For current ETF flow analysis, allow ChatGPT to search the web so it can retrieve recent ETF.com information.
 
 ### 2. Paste the master prompt
 
-Copy and paste the prompt below into ChatGPT.
+Copy and paste the prompt below and point to the playbook Git Repo
+
+Analyze current ETF fund flows using ETF.com as the primary source 
 
 ```text
 Analyze current ETF fund flows using ETF.com as the primary source.
